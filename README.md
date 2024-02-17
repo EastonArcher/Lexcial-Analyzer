@@ -12,7 +12,8 @@ module load gnu
 2. Compile the lexical analyzer using the provided makefile:
 ```js
 make
-```   
+```
+3.    
 <br>
 <br>
 
