@@ -5,10 +5,14 @@ pairs on screen.
 # How to Use
 To use this lexical analyzer, follow these steps:
 
-Ensure you have the necessary modules loaded. If using g++, run the following command:
+1. Ensure you have the necessary modules loaded. If using g++, run the following command:
 ```js
 module load gnu
 ```
+2. Compile the lexical analyzer using the provided makefile:
+```js
+make
+```   
 <br>
 <br>
 
